@@ -1,0 +1,39 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "log/.6c1a1f7b9023a40cab0375214d702bb453b1bc33-audit.json",
+    "files": [
+        {
+            "date": 1641364820646,
+            "name": "log/2022-01-05-smart-push.log",
+            "hash": "5dbf225e91f44a5859bbb7c12aaf1cd1"
+        },
+        {
+            "date": 1641449525771,
+            "name": "log/2022-01-06-smart-push.log",
+            "hash": "678c66085cc9d4bc086e571406ec8d9d"
+        },
+        {
+            "date": 1641794896309,
+            "name": "log/2022-01-10-smart-push.log",
+            "hash": "c108210556c5606d7cc1f0786a8afb24"
+        },
+        {
+            "date": 1641899565645,
+            "name": "log/2022-01-11-smart-push.log",
+            "hash": "cc6f3320ff51970dbb551f9d4b02515d"
+        },
+        {
+            "date": 1641981973620,
+            "name": "log/2022-01-12-smart-push.log",
+            "hash": "4a1d0afbbd158089b8662e7afbbd80ad"
+        },
+        {
+            "date": 1642066904664,
+            "name": "log/2022-01-13-smart-push.log",
+            "hash": "859415410abae1c51ccebf9e3ef4135b"
+        }
+    ]
+}
